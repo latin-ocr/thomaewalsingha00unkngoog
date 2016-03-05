@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaewalsingha00unkngoog_0012.png"; bbox 0 0 3300 5617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 395 2988 1728 3112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 172 2972 1728 3138">
+     <span class='ocr_line' id='line_1_1' title="bbox 395 2988 1728 3112; baseline 0.01 -0.707"><span class='ocrx_word' id='word_1_1' title='bbox 395 2988 539 3112; x_wconf 60' lang='lat'><strong>3:3⁶5:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1229 3003 1281 3078; x_wconf 74' lang='lat'>²</span> <span class='ocrx_word' id='word_1_3' title='bbox 1313 3003 1372 3078; x_wconf 84' lang='lat'>⁰</span> <span class='ocrx_word' id='word_1_4' title='bbox 1400 3009 1451 3075; x_wconf 76' lang='grc'>6</span> <span class='ocrx_word' id='word_1_5' title='bbox 1482 3008 1542 3083; x_wconf 86' lang='lat'>0</span> <span class='ocrx_word' id='word_1_6' title='bbox 1577 3016 1638 3088; x_wconf 64' lang='lat'><strong>‘5</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1673 3018 1728 3094; x_wconf 90' lang='lat'>0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1136 4667 2408 4825">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1136 4667 2408 4825">
+     <span class='ocr_line' id='line_1_2' title="bbox 1136 4667 2408 4773; baseline 0 -12"><span class='ocrx_word' id='word_1_8' title='bbox 1136 4711 1277 4764; x_wconf 75' lang='lat' dir='ltr'><strong>Em</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1293 4719 1386 4762; x_wconf 78' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1408 4667 1816 4767; x_wconf 43' lang='lat' dir='ltr'><strong>Spontsggglggq</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1823 4669 1925 4764; x_wconf 42' lang='lat' dir='ltr'><strong>ffli-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1939 4719 2174 4773; x_wconf 72' lang='lat' dir='ltr'><strong>MaJestv’s</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2189 4718 2408 4771; x_wconf 70' lang='lat' dir='ltr'>Printers,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1320 4761 2231 4825; baseline 0.002 -12"><span class='ocrx_word' id='word_1_14' title='bbox 1320 4770 1410 4814; x_wconf 79' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1430 4770 1529 4814; x_wconf 79' lang='lat' dir='ltr'>Iler</span> <span class='ocrx_word' id='word_1_16' title='bbox 1546 4769 1780 4825; x_wconf 64' lang='lat' dir='ltr'><strong>Majoety&#39;s</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1795 4771 2060 4824; x_wconf 59' lang='lat' dir='ltr'><strong>Stationem</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 2075 4761 2231 4815; x_wconf 76' lang='lat' dir='ltr'>Office-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
